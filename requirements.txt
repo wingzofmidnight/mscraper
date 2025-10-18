@@ -1,0 +1,8 @@
+requests
+gallery-dl
+transformers
+torch
+timm
+torchvision
+Pillow
+tqdm
