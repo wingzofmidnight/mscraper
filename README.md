@@ -18,7 +18,7 @@ To get started with MScraper, follow these steps:
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/wingzofmidnight/mscraper.git
+    git clone https://github.com/wingzofmidnight/MScraper.git
     cd MScraper
     ```
 
